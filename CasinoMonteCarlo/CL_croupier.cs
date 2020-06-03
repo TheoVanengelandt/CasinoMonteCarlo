@@ -7,8 +7,6 @@ namespace CasinoMonteCarlo
 {
 	class CL_croupier
 	{
-		private List<CL_cards> deck;
-
 		enum Value
 		{
 			one = 1,
@@ -26,17 +24,17 @@ namespace CasinoMonteCarlo
 			king = 10
 		}
 
-		internal void GetDeck()
+		internal List<CL_cards> GetDeck()
 		{
-			deck = new CL_cards_games().InitDeck();
+			return new CL_cards_games().InitDeck();
 		}
 
-		internal void Shuffle()
+		internal void Shuffle(List<CL_cards> deck)
 		{
 			deck = deck.OrderBy(a => Guid.NewGuid()).ToList();
 		}
 
-		internal void GiveCards(CL_player player1, CL_player player2, CL_player bank)
+		internal void GiveCards(List<CL_cards> deck, CL_player player1, CL_player player2, CL_player bank)
 		{
 			// Console.WriteLine("Player 1 a reçu ses cartes");
 			player1.GiveCard(deck[0]);

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\theo\\OneDrive - Association Cesi Viacesi mail\\EXIA\\A4\\Prosits_A4\\UE spécialité\\Bloc 2\\Parallel Programming\\CasinoMonteCarlo\\CasinoMonteCarlo\\CasinoMonteCarlo.csproj",
+      "projectUniqueName": "C:\\Users\\theo\\OneDrive - Association Cesi Viacesi mail\\EXIA\\A4\\Prosits_A4\\UE spécialité\\Bloc 2\\P1 - Parallel Programming\\CasinoMonteCarlo\\CasinoMonteCarlo\\CasinoMonteCarlo.csproj",
       "projectName": "CasinoMonteCarlo",
-      "projectPath": "C:\\Users\\theo\\OneDrive - Association Cesi Viacesi mail\\EXIA\\A4\\Prosits_A4\\UE spécialité\\Bloc 2\\Parallel Programming\\CasinoMonteCarlo\\CasinoMonteCarlo\\CasinoMonteCarlo.csproj",
+      "projectPath": "C:\\Users\\theo\\OneDrive - Association Cesi Viacesi mail\\EXIA\\A4\\Prosits_A4\\UE spécialité\\Bloc 2\\P1 - Parallel Programming\\CasinoMonteCarlo\\CasinoMonteCarlo\\CasinoMonteCarlo.csproj",
       "packagesPath": "C:\\Users\\theo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\theo\\OneDrive - Association Cesi Viacesi mail\\EXIA\\A4\\Prosits_A4\\UE spécialité\\Bloc 2\\Parallel Programming\\CasinoMonteCarlo\\CasinoMonteCarlo\\obj\\",
+      "outputPath": "C:\\Users\\theo\\OneDrive - Association Cesi Viacesi mail\\EXIA\\A4\\Prosits_A4\\UE spécialité\\Bloc 2\\P1 - Parallel Programming\\CasinoMonteCarlo\\CasinoMonteCarlo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

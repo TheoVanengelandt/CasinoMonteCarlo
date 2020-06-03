@@ -51,11 +51,9 @@ namespace MyFirstCoreApp
 
 			DateTime startTime = DateTime.Now;
 
-			int roundNumber = 10000;
-
-			for(int r = 0; r < roundNumber; r++)
+			for(int r = 1; r < 10000; r++)
 			{
-				Console.WriteLine("\nDébut de la manche " + (r+1).ToString() + " !");
+				Console.WriteLine("\nDébut de la manche " + (r + 1).ToString() + " !");
 				Round();
 			}
 
@@ -72,18 +70,20 @@ namespace MyFirstCoreApp
 		private static void Round()
 		{
 			Console.WriteLine("Préparation du jeu");
-			croupier.GetDeck();
+			List<CL_cards> deck = croupier.GetDeck();
 
 			Console.WriteLine("Le croupier mélange le jeu...");
-			croupier.Shuffle();
+			croupier.Shuffle(deck);
 
 			Console.WriteLine("Le croupier distribue les cartes aux joueurs...");
-			croupier.GiveCards(player1, player2, bank);
+			croupier.GiveCards(deck, player1, player2, bank);
 
 			Console.WriteLine("Decompte des scores...");
-			croupier.CountScore(player1);
-			croupier.CountScore(player2);
-			croupier.CountScore(bank);
+			Parallel.Invoke(
+				() => { croupier.CountScore(player1); },
+				() => { croupier.CountScore(player2); },
+				() => { croupier.CountScore(bank); }
+			);
 
 			Console.WriteLine("P1 a " + player1.points + " points");
 			Console.WriteLine("P2 a " + player2.points + " points");

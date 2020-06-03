@@ -13,7 +13,7 @@ namespace CasinoMonteCarlo
 		{
 			deck = new List<CL_cards>();
 
-			List<string> values = new List<string>() {"one", "two", "three", "four", "five", "six", "seven", "heigt", "nine", "ten", "jack", "quenn", "king" };
+			List<string> values = new List<string>() {"one", "two", "three", "four", "five", "six", "seven", "heigt", "nine", "ten", "jack", "queen", "king" };
 			List<string> suits = new List<string>() { "Hearts", "Diamonds", "Clubs", "Spades" };
 
 			suits.ForEach(suit => values.ForEach(value => {
