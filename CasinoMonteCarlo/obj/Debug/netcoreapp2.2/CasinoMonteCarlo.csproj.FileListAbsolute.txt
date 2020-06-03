@@ -1,0 +1,10 @@
+C:\Users\theo\OneDrive - Association Cesi Viacesi mail\EXIA\A4\Prosits_A4\UE spécialité\Bloc 2\Parallel Programming\CasinoMonteCarlo\CasinoMonteCarlo\obj\Debug\netcoreapp2.2\CasinoMonteCarlo.csproj.CoreCompileInputs.cache
+C:\Users\theo\OneDrive - Association Cesi Viacesi mail\EXIA\A4\Prosits_A4\UE spécialité\Bloc 2\Parallel Programming\CasinoMonteCarlo\CasinoMonteCarlo\obj\Debug\netcoreapp2.2\CasinoMonteCarlo.AssemblyInfoInputs.cache
+C:\Users\theo\OneDrive - Association Cesi Viacesi mail\EXIA\A4\Prosits_A4\UE spécialité\Bloc 2\Parallel Programming\CasinoMonteCarlo\CasinoMonteCarlo\obj\Debug\netcoreapp2.2\CasinoMonteCarlo.AssemblyInfo.cs
+C:\Users\theo\OneDrive - Association Cesi Viacesi mail\EXIA\A4\Prosits_A4\UE spécialité\Bloc 2\Parallel Programming\CasinoMonteCarlo\CasinoMonteCarlo\bin\Debug\netcoreapp2.2\CasinoMonteCarlo.deps.json
+C:\Users\theo\OneDrive - Association Cesi Viacesi mail\EXIA\A4\Prosits_A4\UE spécialité\Bloc 2\Parallel Programming\CasinoMonteCarlo\CasinoMonteCarlo\bin\Debug\netcoreapp2.2\CasinoMonteCarlo.runtimeconfig.json
+C:\Users\theo\OneDrive - Association Cesi Viacesi mail\EXIA\A4\Prosits_A4\UE spécialité\Bloc 2\Parallel Programming\CasinoMonteCarlo\CasinoMonteCarlo\bin\Debug\netcoreapp2.2\CasinoMonteCarlo.runtimeconfig.dev.json
+C:\Users\theo\OneDrive - Association Cesi Viacesi mail\EXIA\A4\Prosits_A4\UE spécialité\Bloc 2\Parallel Programming\CasinoMonteCarlo\CasinoMonteCarlo\bin\Debug\netcoreapp2.2\CasinoMonteCarlo.dll
+C:\Users\theo\OneDrive - Association Cesi Viacesi mail\EXIA\A4\Prosits_A4\UE spécialité\Bloc 2\Parallel Programming\CasinoMonteCarlo\CasinoMonteCarlo\bin\Debug\netcoreapp2.2\CasinoMonteCarlo.pdb
+C:\Users\theo\OneDrive - Association Cesi Viacesi mail\EXIA\A4\Prosits_A4\UE spécialité\Bloc 2\Parallel Programming\CasinoMonteCarlo\CasinoMonteCarlo\obj\Debug\netcoreapp2.2\CasinoMonteCarlo.dll
+C:\Users\theo\OneDrive - Association Cesi Viacesi mail\EXIA\A4\Prosits_A4\UE spécialité\Bloc 2\Parallel Programming\CasinoMonteCarlo\CasinoMonteCarlo\obj\Debug\netcoreapp2.2\CasinoMonteCarlo.pdb
