@@ -6,5 +6,6 @@ namespace CasinoMonteCarlo
 {
 	interface Iplayer
 	{
+		bool IsBank { get; set; }
 	}
 }
